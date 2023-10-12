@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+body{
+    font-family: 'Bebas Neue', sans-serif !important;
+}
+
+.hola{
+    color: rgb#d4e6ed !important;
+}
+
+.hehe{
+color: rgb#d4e6ed !important;
+
+}
+.h3{
+font-size: 200px !important;
+color: #9548ad !important;
+}
+
+.container{
+ background-color: rgb(255, 195, 173)!important;   
+}
