@@ -40,10 +40,10 @@
   overflow-y: hidden;
 }
 
-.nav-scroller .nav {
+.nav- .nav {
   display: flex;
   flex-wrap: nowrap;
-  padding-bottom: 1rem;
+  padding-bottom: 6rem;
   margin-top: -1px;
   overflow-x: auto;
   text-align: center;
@@ -70,4 +70,44 @@
 .bd-mode-toggle {
   z-index: 1500;
 }
-</style>
+
+section {
+  background-color: rgb(42, 46, 43);
+
+  padding: 6rem 0;
+}
+
+h3, h1, h2,h4,h5,h6{
+  color: white !important;
+}
+
+
+
+.navbar a{
+  color: rgb(12, 11, 11) !important;
+  
+}
+
+
+h1{
+font-size: 70px !important;
+
+}
+
+h2{
+  font-size: 50px !important;
+}
+
+h3{
+
+  font-size: 30px !important;
+
+}
+
+h4{
+  font-size: 40px !important;
+}
+
+h5{
+  font-size: 40px !important;
+}
